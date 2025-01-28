@@ -30,8 +30,16 @@ The models are evaluated using:
 - F1-Score
 - Confusion Matrix
 
-## 🔧 Installation & Usage
-Clone the repository:
-```bash
-git clone https://github.com/Mallikarjun-B-Patil/Decision-Tree-and-Ensemble-Classification-on-the-Iris-Dataset.git
-cd Iris-DecisionTree-Ensemble
+## Sample UI
+
+Here’s an example of the application’s interface:
+
+![Sample UI](iris_decision_tree.png)
+
+---
+
+## Contact
+
+- **MALLIKARJUN**  
+  Data Science
+  [GitHub](https://github.com/Mallikarjun-B-Patil) | [LinkedIn](https://www.linkedin.com/in/mallikarjunpatil4472/)
